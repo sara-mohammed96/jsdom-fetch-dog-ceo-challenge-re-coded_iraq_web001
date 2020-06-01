@@ -45,11 +45,11 @@ fetch(breedUrl)
         else
         if(event.target.value==='c')
         {
-          breed.style.color='pink';
+          breed.style.color='green';
         }
         if(event.target.value==='d')
         {
-          breed.style.color='lightblue';
+          breed.style.color='white';
         }
         dogBreeds.appendChild(breed);
       }
